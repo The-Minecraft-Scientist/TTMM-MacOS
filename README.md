@@ -7,4 +7,4 @@ Installation Process:
   Copy it to your Applications folder
   Enjoy!
 I will upload new releases to this repository for every NEW TTMM release.
-  NOTE: This software will take up a LOT (~500MB) of space on your computer. This is not a problem myself or WhitePaw can fix without a large amount of effort
+  NOTE: This software will take up a LOT (~500MB) of space on your computer. This is not a problem myself or WhitePaw can fix without a large amount of effort, so don't ask :).
